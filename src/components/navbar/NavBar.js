@@ -14,7 +14,7 @@ function NavBar() {
                         <NavLink to='/' className="nav-link"><h3>Home</h3> <span className="sr-only"></span></NavLink>
                     </li>
                     <li className="nav-item">
-                        <NavLink to='/trips' className="nav-link" ><h3>Products</h3></NavLink>
+                        <NavLink to='/products' className="nav-link" ><h3>Products</h3></NavLink>
                     </li>
                     <li className="nav-item">
                         <NavLink to='/signin' className="nav-link"><h3>Sign In</h3></NavLink>
